@@ -213,6 +213,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1109,7 +1122,47 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Furnitures_0: -5893490669425207014
+      Furnitures_1: -2463201183650264624
+      Furnitures_10: -5495547198044276078
+      Furnitures_11: 1391107824790908113
+      Furnitures_12: -4347861443644362692
+      Furnitures_13: -6414378598563472962
+      Furnitures_14: 3258344961482188114
+      Furnitures_15: 1509777252625922332
+      Furnitures_16: -4779801685769553588
+      Furnitures_17: 8427873887351586771
+      Furnitures_18: 1972864266767210915
+      Furnitures_19: -3680885564537243302
+      Furnitures_2: -2019508434382667515
+      Furnitures_20: 3564017663511561744
+      Furnitures_21: 8447397909621586563
+      Furnitures_22: -4247450251016440145
+      Furnitures_23: 6150421473437993592
+      Furnitures_24: 5669024204768843481
+      Furnitures_25: 3241149201465336495
+      Furnitures_26: 718939149737274820
+      Furnitures_27: -8258269284822485418
+      Furnitures_28: -1318308084033936097
+      Furnitures_29: 7800214958650354454
+      Furnitures_3: 6055715914914191263
+      Furnitures_30: 3607043903605479270
+      Furnitures_31: 4258054450941483540
+      Furnitures_32: 6600954945595519340
+      Furnitures_33: 6140663594568889475
+      Furnitures_34: -4636606369223017375
+      Furnitures_35: 5207384580870819478
+      Furnitures_36: 6635224481482163896
+      Furnitures_37: -5561663247538636060
+      Furnitures_38: -411708391181319937
+      Furnitures_39: -5437523126301099989
+      Furnitures_4: -3946099852551448889
+      Furnitures_5: 6443092996910407324
+      Furnitures_6: 4337053571455542110
+      Furnitures_7: 5206074522361599286
+      Furnitures_8: 8387867981351154326
+      Furnitures_9: -6864197725576704575
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -114,6 +114,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -284,7 +297,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      _WallClimb_0: 6769693826079474279
+      _WallClimb_1: 5459855066081006669
+      _WallClimb_2: 1558857537665335873
+      _WallClimb_3: -8649469661361463314
+      _WallClimb_4: -1232367395395290161
+      _WallClimb_5: 5811238955330113417
+      _WallClimb_6: 2923827499168460333
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
